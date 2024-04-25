@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ademar.sneto/)
 
 
-![Ademar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Ademar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devAdemarNeto&theme=graywhite_icons=true)
 
 ## Tecnologias que uso no meu dia:
 
