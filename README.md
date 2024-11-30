@@ -2,28 +2,31 @@
 ```ruby 
 class Programmer
 
-	def initialize() 
+	def initialize(sobre_mim)
+	puts "
+	Olá,Meu nome é AdemarNeto!
+
+	- 🔭 Desenvolvedor Ruby / Ruby on Rails (em construção).
+	- ❤  Sou apaixonado por tecnologia, musculação, forró e pagode.	
 ```
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
 
-<h3 align="left">Languages and Tools:</h3>
+<div style="display: inline_block"><br>
+  
+### 🏆 Tecnologias
+  
+## 
+          
+  <img align="center" alt="Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"/>          
+  <img align="center" alt="Rails" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg"/>          
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<h3 align="left">High skills:</h3>
-<div style="display: block"><br>   
-  <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
-  <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
-  <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-  <h4 align="left">Medium Skill:</h4>
-  <a href="https://stackshare.io/php" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-  <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" /></a>
-  <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" /></a>
+  <div align="center">
+
 
   
-  
-   
-</div>
+</div>  
 
 
   ##
@@ -31,8 +34,25 @@ class Programmer
 <div> 
 
   <p align="left">
-    <h3 align="left">Connect with me:</h3>
-     
+</div>  
+
+  ### 🌎 Onde me encontrar
+  
+##
+  
+<div>
   <a href="https://discord.com/channels/@ademarnetodev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ademar-neto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+
+
+
+
+
   
+```ruby 
+
+
+	end
+```
