@@ -7,7 +7,7 @@ class Programmer
 	Olá,Meu nome é AdemarNeto!
 
 	- 🔭 Desenvolvedor Ruby / Ruby on Rails (em construção).
-	- ❤  Sou apaixonado por tecnologia, musculação, forró e pagode.	
+	
 ```
 
 <div style="display: inline_block"><br>
