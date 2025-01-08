@@ -3,10 +3,8 @@
 class Programmer
 
 	def initialize(sobre_mim)
-	puts "
-	Olá,Meu nome é AdemarNeto!
-
-	- 🔭 Desenvolvedor Ruby / Ruby on Rails (em construção).
+	  puts "Olá,Meu nome é AdemarNeto!
+	    - 🔭 Desenvolvedor Ruby / Ruby on Rails (em construção)."
 	end
 	
 ```
