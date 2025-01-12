@@ -1,11 +1,25 @@
 ### Hi there 👋
 ```ruby 
 class Programmer
+  def initialize
+    @name = "Ademar Neto"
+    @language = "Ruby / Ruby on Rails"
+    @status = "em construção"
+  end
 
-	def initialize(sobre_mim)
-	  puts "Olá,Meu nome é AdemarNeto!
-	    - 🔭 Desenvolvedor Ruby / Ruby on Rails (em construção)."
-	end
+  def about_me
+    puts <<~ABOUT
+      Olá! Meu nome é #{@name}.
+      - 🌟 Apaixonado por tecnologia e resolução de problemas.
+      - 🔭 Atualmente focado em desenvolvimento #{@language}.
+      - 🚀 Sempre buscando aprendizado e evolução como desenvolvedor.
+      - 🌱 Explorando novas ideias e transformando código em soluções!
+    ABOUT
+  end
+end
+
+Ademar = Programmer.new
+Ademar.about_me
 	
 ```
 
