@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ademar Neto
+#  Ademar Neto
 
 **`Desenvolvedor Web`**
 
