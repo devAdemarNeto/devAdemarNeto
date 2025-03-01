@@ -2,14 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-<p align="center">
 
- ### 🌎 Onde me encontrar  
-
-  <a href="https://discord.com/channels/@ademarnetodev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ademar-neto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</p>
 
   
 ### 🤖 Linguagens e Tecnologias
@@ -101,5 +94,14 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
+<p align="center">
+
+ ### 🌎 Onde me encontrar  
+
+  <a href="https://discord.com/channels/@ademarnetodev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ademar-neto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</p>
 
 
