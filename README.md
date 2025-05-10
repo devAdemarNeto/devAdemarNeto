@@ -49,6 +49,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="tailwind" 
+    title="tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
+/>
 
 
 <img 
@@ -75,6 +83,9 @@
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
 />
+
+
+
 
 </p>
 
