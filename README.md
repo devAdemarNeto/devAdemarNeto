@@ -41,8 +41,9 @@ ademar.save!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%23CC342D.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-%23FFFF00.svg?style=for-the-badge&logo=Javascript&logoColor=black)
-<br>
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2338BDF8.svg?style=for-the-badge&logo=Tailwind&logoColor=blue)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br>
+
 
 </div>
