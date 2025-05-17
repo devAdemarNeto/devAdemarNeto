@@ -24,16 +24,13 @@ ademar.save!
 
 ## Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&layout=compact&langs_count=6&theme=shadow_red"/>
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=devAdemarneto&show_icons=true&theme=shadow_red&rank_icon=github"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/devAdemarNeto">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&layout=compact&langs_count=6&theme=shadow_red"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=devAdemarneto&show_icons=true&theme=shadow_red&rank_icon=github"/>
+  </a>
+</p>
+
 
 
 ## Stacks
