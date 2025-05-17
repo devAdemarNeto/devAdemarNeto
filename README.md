@@ -1,120 +1,48 @@
-#  Ademar Neto
 
-**`Desenvolvedor Web`**
+## profile.rb
 
+```ruby
+class AdemarNeto < SoftwareDeveloper
+end
 
+ademar = AdemarNeto.new
 
-  
-### 🤖 Linguagens e Tecnologias
-
-<p>
-<img 
-    align="left" 
-    alt="Ruby"
-    title="RUby" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Rails" 
-    title="Rails"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg"
-/>
-  
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="tailwind" 
-    title="tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
-/>
+ademar.main_stack = 'Ruby on Rails'
+ademar.email = 'request.ademarnetodev@gmail.com'
 
 
-<img 
-    align="left" 
-    alt="Linux"
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="vscode" 
-    title="vscode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
-/>
+ademar.save!
+```
 
+## Contact
+<div align='center'>
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademar-neto-dev/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:request.ademarnetodev@gmail.com)
 
-
-</p>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<div style="display: flex; flex-direction: row;">
-  <img 
-    alt="GitHub Stats" 
-    height="150" 
-    style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=devAdemarNeto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Top Languages" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </div>
 
-<p align="center">
+## Stats
 
- ### 🌎 Onde me encontrar  
+<div align="center">
+  <a href="https://github.com/devAdemarNeto">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&layout=compact&langs_count=6&theme=onedark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=devAdemarNeto&show_icons=true&show=reviews&theme=onedark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  
+</div>
 
-  <a href="https://discord.com/channels/@ademarnetodev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ademar-neto-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</p>
+## Stacks
+<div align='center'>
+  
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23CC342D.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-%23FFFF00.svg?style=for-the-badge&logo=Javascript&logoColor=black)
+<br>
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338BDF8.svg?style=for-the-badge&logo=Tailwind&logoColor=blue)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
+</div>
