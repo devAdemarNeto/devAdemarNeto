@@ -26,8 +26,8 @@ ademar.save!
 
 <p align="center">
   <a href="https://github.com/devAdemarNeto">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&layout=compact&langs_count=6&theme=shadow_red"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=devAdemarneto&show_icons=true&theme=shadow_red&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&layout=compact&langs_count=6&theme=shadow_red"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devAdemarneto&show_icons=true&theme=shadow_red&rank_icon=github"/>
   </a>
 </p>
 
