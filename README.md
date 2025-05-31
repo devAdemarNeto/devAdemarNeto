@@ -9,6 +9,7 @@ ademar = AdemarNeto.new
 
 ademar.main_stack = 'Ruby on Rails'
 ademar.email = 'request.ademarnetodev@gmail.com'
+ademar.linkedin = www.linkedin.com/in/ademar-neto-dev/
 
 
 ademar.save!
