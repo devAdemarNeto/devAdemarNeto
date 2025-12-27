@@ -44,14 +44,3 @@ Backend Developer, focado em desenvolvimento backend com Java, APIs REST e Sprin
 </div>  
 
 ---
-
-## 🔗 Estatísticas GitHub
-
-
-<div align="center">
-    <a href="https://github.com/devAdemarNeto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdemarNeto&layout=compact&langs_count=6&theme=shadow_red"/>   
-  </a>
-</div>  
-
----
