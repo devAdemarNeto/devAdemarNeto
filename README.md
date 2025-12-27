@@ -16,7 +16,7 @@
 ## 🚀 Stack Principal
 - **Java**: Desenvolvimento back-end robusto e orientado a objetos  
 - **Spring Boot**: Criação de APIs REST, microsserviços e autenticação JWT  
-- **Bancos de Dados**: PostgreSQL, MySQL, JPA/Hibernate  
+- **Bancos de Dados**: PostgreSQL, JPA/Hibernate  
 - **APIs & Testes**: Swagger, Postman  
 - **Versionamento & Build**: Git, GitHub, Maven, Gradle  
 
